@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JLamour28
+- 👋 Hi, I’m Jarryd
 - 👀 I’m interested in front end development 🧑🏻‍💻
 - 🌱 I’m currently learning and mastering Javascript, CSS and React.
 - 📫 How to reach me : jarryd.lamour@gmail.com
